@@ -1,0 +1,20 @@
+D07_Nguyen Quoc Tin_15000000_Fly_[D07,C,Golang]_5
+D08_Dung Cam Quang_13000000_Run_[D08,C++,Java]_3
+D11_Huynh Tan Hung_12000000_Fly_[D11,Golang,Swift]_6
+D03_Tran Tuan Kiet_12000000_Run_[D03,Java,Java Script]_7
+D09_Nguyen Quang Duy_10000000_Walk_[D09,Java,PHP,Java Script]_5
+D13_Nguyen Thanh Quan_10000000_Walk_[D13,C++,Java,PHP]_5
+D04_To Quoc Bao_10000000_Walk_[D04,C,C++]_4
+D05_Tran Bao Tin_10000000_Jump_[D05,Java,C#]_3
+D10_Dang Thanh Tu_9000000_Run_[D10,Java]_2
+D12_Tran Duc Minh_9000000_Walk_[D12,C,Java,PHP]_3
+T07_Do Thi Nhan_8000000
+D06_Le Van Nam_8000000_Jump_[D06,PHP,Ruby]_1
+T06_Truong My Lien_7000000
+D02_Pham Le Anh Khoa_6000000_Fly_[D02,C,Java]_3
+T03_Pham Thi Nhu_6000000
+D01_Nguyen Dinh Minh Khoi_5000000_Run_[D01,C,C#,C++]_1
+T04_Nguyen Duy An_5000000
+T05_Vu Thi Hanh_4000000
+T01_Vu Bao Dang Khoa_3000000
+T02_Truong Pham Thao Mi_2000000
